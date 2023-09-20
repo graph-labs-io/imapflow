@@ -4,10 +4,7 @@
     "description": "IMAP Client for Node",
     "main": "./lib/imap-flow.js",
     "scripts": {
-        "test": "grunt",
-        "prepare": "npm run build",
-        "dst": "node types.js",
-        "build": "npm run dst"
+        "test": "grunt"
     },
     "repository": {
         "type": "git",
